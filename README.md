@@ -1,6 +1,6 @@
 # Social Icon Animation
 - A simple Social Medial Icon Hover Animation for your website contact lists.
-- `git clone https://github.com/Kellsonphilips/Social-Icon-Hover-Animation/`
+- `git clone https://github.com/Kellsonphilips/Social-Icon-Hover-Animation.git`
 - Make changes and use in your projects 
 
 
