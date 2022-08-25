@@ -23,8 +23,6 @@ h1 {
     font-size: 30px;
 }
 
-
-
 .social-icons li a {
     width: 80px;
     height: 80px;
@@ -97,7 +95,6 @@ h1 {
 .social-icons li:hover:nth-child(2) a::after {
     background-color: rgb(233, 47, 96);
 }
-
 
 .social-icons li:hover:nth-child(3) a {
     background-color: #45a1e7;
